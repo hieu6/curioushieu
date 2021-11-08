@@ -14,12 +14,8 @@ series:
 tags: 
 -
 toc: false
-draft: false
+draft: true
 ---
-
-# how do I add an about page to Hugo's menu bar?
-
-
 ## how is it normally done?
 
 the following method is how we would normally add an about page to hugo: 

@@ -19,8 +19,8 @@
                 <a href="{{ .URL | relURL }}"{{ if eq .URL $.RelPermalink }} aria-current="page"{{ end }}>{{ .Pre }}{{ .Name }}{{ .Post }}</a>
                 {{ end }}
                 <button id="dark-mode-button">
-                  {{ (resources.Get "icons/light.svg").Content | safeHTML }}
-                  {{ (resources.Get "icons/dark.svg").Content | safeHTML }}
+                {{ (resources.Get "icons/light.svg").Content | safeHTML }}
+                {{ (resources.Get "icons/dark.svg").Content | safeHTML }}
                 </button>
             </div>
             </div>

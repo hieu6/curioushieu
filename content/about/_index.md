@@ -1,8 +1,6 @@
 ---
 title: about
 date: 2021-10-24
-type: page
-
 ---
 
 # a running log of what i'm working on in here
