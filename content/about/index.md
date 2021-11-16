@@ -3,7 +3,7 @@ title: about
 date: 2021-10-24
 ---
 
-# a running log of what i'm working on in here
+# a running log of what i am working on in here
 
 This is content within the `index.md` file held in the `about` folder nested within `/content/`.
 

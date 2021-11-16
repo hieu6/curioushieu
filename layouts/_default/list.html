@@ -43,12 +43,12 @@
     <nav class="pagination">
       {{- if $paginator.HasPrev}}
       <div class="prev-page">
-        <a href="{{ $paginator.Prev.URL }}">Previous Page</a>
+        <a href="{{ $paginator.Prev.URL }}">previous</a>
       </div>
       {{ end }}
       {{- if $paginator.HasNext}}
       <div class="next-page">
-        <a href="{{ $paginator.Next.URL }}">Next Page</a>
+        <a href="{{ $paginator.Next.URL }}">next</a>
       </div>
       {{ end }}
     </nav>

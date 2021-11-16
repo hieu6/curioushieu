@@ -56,6 +56,10 @@ menu:
   header:
     - name: Posts
       url: "/posts/"
+      weight: 1
+    - name: About
+      url: "/about/"
+      weight: 2
   footer:
     - name: RSS
       url: "/index.xml"
