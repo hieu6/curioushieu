@@ -42,7 +42,7 @@ params:
   
   # Comments settings
   comments:
-    enabled: true
+    enabled: false
     provider: giscus
 
     giscus:
@@ -54,10 +54,10 @@ params:
 
 menu:
   header:
-    - name: Posts
+    - name: posts
       url: "/posts/"
       weight: 1
-    - name: About
+    - name: about
       url: "/about/"
       weight: 2
   footer:

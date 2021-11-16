@@ -1,5 +1,5 @@
 ---
-title: Posts
-subtitle: Posts, tutorials, snippets, musings, and everything else.
+title: posts
+subtitle: 
 layout: "archives"
 ---

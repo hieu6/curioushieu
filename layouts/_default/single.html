@@ -10,11 +10,6 @@
                             <time>{{ .Date.Format "January 02, 2006" }}</time>
                             | {{ .ReadingTime }} min.
                         </div>
-                        <div class="tags">
-                            {{ range (.GetTerms "tags") }}
-                            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-                            {{ end }}
-                        </div>
                     </div>
                 </div>
             </div>
@@ -23,6 +18,13 @@
 
     <div class="article-post">
     {{ .Content }}
+
+    <div class="tags">
+        {{ range (.GetTerms "tags") }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{ end }}
+    </div>
+
     </div>
 </div>
 

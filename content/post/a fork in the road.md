@@ -15,7 +15,6 @@ toc: false
 draft: false
 ---
 
-# a fork in the road
 
 pandora's box is closed right now. are you under the impression that you live outside of pandora's box?
 
