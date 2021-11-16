@@ -1,9 +1,9 @@
-baseurl: "https://example.com"
+baseurl: "https://curioushieu.com"
 languageCode: "en-us"
 title: "curious hieu"
 paginate: 6
 
-disqusShortname: https-hugo-tania-netlify-app
+# disqusShortname: https-hugo-tania-netlify-app
 
 params:
   # Emoji will show before the blog title on site navbar.
