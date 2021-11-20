@@ -14,7 +14,7 @@ series:
 tags: 
 - self-dev
 - growing-pains
-draft: false
+draft: true
 menu: 
 toc: false
 collapsibleTOC: false

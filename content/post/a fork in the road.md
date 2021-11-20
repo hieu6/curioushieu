@@ -12,7 +12,7 @@ tags:
 - courage
 - vulnerability
 toc: false
-draft: false
+draft: true
 ---
 
 
