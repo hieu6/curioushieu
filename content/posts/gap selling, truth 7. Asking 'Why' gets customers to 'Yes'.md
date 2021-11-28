@@ -1,6 +1,6 @@
 ---
-title: gap selling, Truth 7. Asking 'Why' gets customers to 'Yes'
-subtitle: 
+title: gap selling, truth 7
+subtitle:
 date: 2021-11-28
 tags: 
 categories: 
