@@ -1,12 +1,9 @@
 ---
 title: gap selling, truth 7
-subtitle:
 date: 2021-11-28
-tags: 
-categories: 
-- sales
-series: 
+tags: consultative, sales, closing
 draft: false
+layout: single
 ---
 
 ### Truth 7: Asking “Why?” gets customers to “Yes”
