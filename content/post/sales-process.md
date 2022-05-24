@@ -33,3 +33,17 @@ The qualification call collects basic information about need, budget, timeline, 
 - Do they plan to make a product purchase soon? If so, when?
 - How much do they have to spend on your product?
 - Who has the authority to make the purchase?
+
+
+## 5. Analyze a customer’s needs
+Once you’ve narrowed your list of viable prospects, take a deep dive into the needs of those who remain.
+
+Set up another call with each prospect to further understand what they need and how you might meet that need (known as a discovery call). Keep in mind that 95% of buyers make purchase decisions based on emotion, so understanding a prospect’s emotional levers is key.
+
+Below are a couple of probing questions that can guide this discussion:
+
+- What pain points or problems do you have right now?
+- How have these problems affected your day-to-day work or life?
+- What’s preventing you from finding lasting solutions?
+- If you implemented solutions that didn’t work, why didn’t they work?
+- What would an ideal solution look like?
