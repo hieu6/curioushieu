@@ -21,3 +21,15 @@ Overcome the objection: If you can, bring up examples or case studies about thei
 ---
 
 The best way to learn your products is by reviewing product demos, press releases, and documentation. Then, use them. Ask developers or product managers questions about functionality, use cases, and potential pitfalls. Write your own notes highlighting standout features and the problems they solve for customers.
+
+---
+
+## 4. Qualify prospects
+Not all prospects are created equal. Before you can make a pitch, you need to verify that your product is a good match for the prospects you’ve identified. This requires a qualification call.
+
+The qualification call collects basic information about need, budget, timeline, and authority that allows you to identify prospects most likely to buy. During the call, you should focus on the following key questions:
+
+- What does the prospect need, and does this need align with your product?
+- Do they plan to make a product purchase soon? If so, when?
+- How much do they have to spend on your product?
+- Who has the authority to make the purchase?
