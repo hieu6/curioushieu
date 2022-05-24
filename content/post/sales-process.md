@@ -3,6 +3,8 @@ title: sales process
 date: 2022-05-24T17:27:02.042Z
 thumbnail: /images/uploads/j-v-8konjx6dy4g-unsplash.jpeg
 ---
+https://www.salesforce.com/resources/articles/how-to-sell/
+
 ## 1. build product knowledge 
 clients expect sales reps to know products inside and out.
 
