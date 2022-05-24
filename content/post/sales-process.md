@@ -34,6 +34,7 @@ The qualification call collects basic information about need, budget, timeline, 
 - How much do they have to spend on your product?
 - Who has the authority to make the purchase?
 
+---
 
 ## 5. Analyze a customer’s needs
 Once you’ve narrowed your list of viable prospects, take a deep dive into the needs of those who remain.
@@ -47,3 +48,11 @@ Below are a couple of probing questions that can guide this discussion:
 - What’s preventing you from finding lasting solutions?
 - If you implemented solutions that didn’t work, why didn’t they work?
 - What would an ideal solution look like?
+
+---
+
+## 8. Nurture the relationship and upsell
+
+If all goes well, your prospect is now a customer. Congratulations! But the sales process isn’t over yet. Satisfied customers provide a huge opportunity for cross-selling and upselling. As Alex Turnbull, CEO and founder of Groove, noted, “Upselling isn’t just a sales tactic; it’s a customer happiness tactic that can help you build deeper relationships with customers by delivering more value.”
+
+Barnes’ Formula of 3s makes this easy:
