@@ -6,10 +6,13 @@ draft: false
 disableComments: true
 ---
 
-# about
 welcome to my corner of the internet. 
 
 a loose collection of thoughts & things learned.
+
+## interests
+
+philosophy, poetry, sales, marketing, copywriting, web3, jamstack, hugo, relationships, vulnerability, courage, mental health, post-traumatic growth, dog training. 
 
 ## contact
 
