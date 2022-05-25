@@ -57,12 +57,12 @@ menu:
     - name: posts
       url: "/posts/"
       weight: 1
-    # - name: about
-      # url: "/about/"
-      # weight: 2
-  footer:
-    - name: RSS
-      url: "/index.xml"
+    - name: about
+      url: "/about/"
+      weight: 2
+  #footer:
+    #- name: RSS
+      #url: "https://curioushieu.com"
 
 markup:
   highlight:
