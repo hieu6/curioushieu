@@ -32,14 +32,6 @@
   box-shadow: none !important;
 }
 
-.footnote-ref::before {
-    content: '[';
-}
-
-.footnote-ref::after {
-    content: ']';
-}
-
 .footnote-backref {
   box-shadow: none !important;
 }
