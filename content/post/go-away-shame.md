@@ -1,5 +1,5 @@
 ---
-title: go away shame
+title: talking publicly about mental health is a net positive
 date: 2022-05-24T15:33:33.543Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
