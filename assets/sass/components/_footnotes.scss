@@ -32,11 +32,11 @@
   box-shadow: none !important;
 }
 
-a.footnote-ref::before {
+.footnote-ref::before {
     content: '[';
 }
 
-a.footnote-ref::after {
+.footnote-ref::after {
     content: ']';
 }
 
