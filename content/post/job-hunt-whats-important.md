@@ -3,6 +3,8 @@ title: job hunt - what's important?
 date: 2022-05-25T02:28:49.152Z
 thumbnail: /images/uploads/j-v-8konjx6dy4g-unsplash.jpeg
 ---
+i often wish there were more time to ask questions in later stage interviews.
+
 ## the team
 
 - what percentage of your sales team regularly hits quota?
