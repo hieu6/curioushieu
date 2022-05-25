@@ -1,6 +1,6 @@
 ---
 title: job hunt - what's important?
-date: 2022-05-25T02:23:49.626Z
+date: 2022-05-25T02:28:49.152Z
 thumbnail: /images/uploads/j-v-8konjx6dy4g-unsplash.jpeg
 ---
 ## the team
