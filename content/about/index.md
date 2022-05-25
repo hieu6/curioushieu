@@ -19,6 +19,7 @@ a loose collection of thoughts, curiosities explored, & things learned.
 - philosophy
 - poetry
 - sales & marketing
+- financial independence
 - copywriting
 - jamstack 
 - hugo
