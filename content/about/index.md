@@ -25,7 +25,7 @@ a loose collection of thoughts & things learned.
 
 ## say hi
 
-[LinkedIn](www.linkedin.com/in/hieu6/)
+www.linkedin.com/in/hieu6/
 
 
 ## disclaimer
