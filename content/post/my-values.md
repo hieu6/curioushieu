@@ -1,6 +1,6 @@
 ---
 title: values
-date: 2022-05-25T06:40:05.874Z
+date: 2020-09-21T06:40:05.874Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
 radical vulnerability, as nerve-wracking as the build-up is, can be incredibly cathartic. being yourself takes courage, finding yourself is so painful, and standing up for yourself can be a lonely experience. 
