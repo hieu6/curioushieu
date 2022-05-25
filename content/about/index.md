@@ -16,18 +16,26 @@ a loose collection of thoughts, curiosities explored, & things learned.
 
 ## interests
 
-- philosophy
-- poetry
-- sales & marketing
-- financial independence
-- copywriting
-- jamstack 
-- hugo
-- relationships
-- vulnerability
-- courage
-- mental health
-- post-traumatic growth
+-   philosophy & poetry
+-   sales & marketing
+	- copywriting
+	- sales psychology
+-   financial independence
+	- fat FIRE
+	- lean FIRE
+-   jamstack
+	- hugo
+	- static site generators
+	- javascript
+-   mental health
+	- post-traumatic growth
+	- ADHD
+	- healing & recovery
+- a life well lived
+	- vulnerability
+	- courage
+	- curiosity
+	- shame
 
 
 ## disclaimer
