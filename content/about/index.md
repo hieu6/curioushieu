@@ -6,10 +6,13 @@ draft: false
 disableComments: true
 ---
 
-hi, i'm hieu nguyen 🌻
+hi, i'm hieu nguyen 🌻 
 
 welcome to my corner of the internet. 
+
 a loose collection of thoughts & things learned.
+
+[say hi](https://www.linkedin.com/in/hieu6/)
 
 ## interests
 
@@ -24,10 +27,6 @@ a loose collection of thoughts & things learned.
 - courage
 - mental health
 - post-traumatic growth
-
-## say hi
-
-[LI](https://www.linkedin.com/in/hieu6/)
 
 
 ## disclaimer
