@@ -10,7 +10,7 @@ hi, i'm hieu nguyen 🌻
 
 welcome to my corner of the internet. 
 
-a loose collection of thoughts & things learned.
+a loose collection of thoughts, curiosities explored, & things learned.
 
 [say hi](https://www.linkedin.com/in/hieu6/)
 
