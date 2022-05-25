@@ -1,6 +1,8 @@
 ---
 title: about
 date: 2022-05-24
+type: page
+draft: false
 disableComments: true
 ---
 
