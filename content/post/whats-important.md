@@ -3,11 +3,10 @@ title: what's important?
 date: 2022-05-25T02:33:45.525Z
 thumbnail: /images/uploads/j-v-8konjx6dy4g-unsplash.jpeg
 ---
-i often wish there were more time to ask questions in later stage interviews.
+
 
 ## the manager
 
-* what advice would you give early career you?
 * where do you hope your department will be in a year? what is currently blocking you from getting there?
 * what's an example of a time you gave critical feedback to one of your own supervisors? how did you deliver it? 
 * what's an example of when you received critical feedback? how do you prefer to receive critical feedback?
@@ -21,6 +20,8 @@ i often wish there were more time to ask questions in later stage interviews.
 ## gut check
 
 * what would 13-year-old you think of you now?[^1]
+* what advice would you give yourself earlier on in your career?
+* how have you grown since you've started at company?
 
 [^1]: this question asks them to be human, allow vulnerability, and choose connection over shame or embarrassment. love the look of surprise on their face, the appreciation to reflect on past selves.
 
@@ -30,3 +31,4 @@ i often wish there were more time to ask questions in later stage interviews.
 * how has xyz company supported your growth in your current role?
 * what are the company's strengths as an employer? it's weaknesses?
 * what is the salary band or compensation structure for this role?
+* how does the company plan to retain it's workforce during the recession?
