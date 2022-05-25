@@ -5,8 +5,8 @@ thumbnail: /images/uploads/taylor-r-clki9_xcuis-unsplash.jpeg
 ---
 ## the team
 
-- what percentage of your sales team regularly hit quota?
-- what sales enablement or automations do you have in place?
+- what percentage of your sales team regularly hits quota?
+- what sales enablement process or automations do you have in place?
 - how does the team stay accountable to goals while working remote?
 - where do you hope your department will be in a year? what is currently blocking you from getting there?
 
