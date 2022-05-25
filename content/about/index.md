@@ -6,6 +6,8 @@ draft: false
 disableComments: true
 ---
 
+hi, i'm hieu nguyen 🌻
+
 welcome to my corner of the internet. 
 a loose collection of thoughts & things learned.
 
@@ -25,7 +27,7 @@ a loose collection of thoughts & things learned.
 
 ## say hi
 
-www.linkedin.com/in/hieu6/
+[LI](https://www.linkedin.com/in/hieu6/)
 
 
 ## disclaimer
