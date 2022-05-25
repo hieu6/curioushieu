@@ -27,4 +27,6 @@ i often wish there were more time to ask questions in later stage interviews.
 
 ## gut check
 
-- what would 13-year-old you think of you now?
+- what would 13-year-old you think of you now?[^1]
+
+[^1]: this question asks them to be human, allow vulnerability, and choose connection over shame or embarrassment. love the look of surprise on their face, the appreciation to reflect on past selves.
