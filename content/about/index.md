@@ -6,13 +6,13 @@ draft: false
 disableComments: true
 ---
 
-# i'm hieu nguyen 🌻 
+hi, i'm hieu nguyen 🌻 
 
 welcome to my corner of the internet. 
 
 a loose collection of thoughts-in-progress & curiosities explored.
 
-say [hi](mailto:hieu6n@gmail.com)
+say [hello](mailto:hieu6n@gmail.com)
 
 ## Mission
 1. To live life for myself, not the expectations of others
