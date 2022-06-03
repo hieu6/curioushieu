@@ -26,5 +26,4 @@ say [hi](mailto:hieu6n@gmail.com)
 
 
 ---
-*disclaimer*
-opinions expressed here are my own and not those of my employer or any past employer.
+*disclaimer*: opinions expressed here are my own and not those of my employer or any past employer.
