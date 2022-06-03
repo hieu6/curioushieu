@@ -1,6 +1,6 @@
 ---
 title: principles
-date: 2022-06-03T04:23:25.872Z
+date: 2020-09-21T04:23:25.872Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
 **radical vulnerability**, as nerve-wracking as the build-up is, can be incredibly cathartic. being yourself takes courage, finding yourself is so painful, and standing up for yourself can be a lonely experience. 
