@@ -3,7 +3,9 @@ title: principles
 date: 2020-09-21T04:23:25.872Z
 thumbnail: /images/uploads/eric-johnson-5li2ygvhhbe-unsplash.jpeg
 ---
-**radical vulnerability**, as nerve-wracking as the build-up is, can be incredibly cathartic. being yourself takes courage, finding yourself is so painful, and standing up for yourself can be a lonely experience. 
+**radical vulnerability**, as nerve-wracking as the build-up is, can be incredibly cathartic. 
+
+**being yourself takes courage**, finding yourself is so painful, and standing up for yourself can be a lonely experience. 
 
 **do not be afraid of fear**. it’s just an emotion, it will pass, everything will be okay. the growth that you get from stepping up & speaking out is always worth it.
 
