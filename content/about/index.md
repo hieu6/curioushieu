@@ -10,9 +10,9 @@ hi, i'm hieu nguyen 🌻
 
 welcome to my corner of the internet. 
 
-a loose collection of thoughts-in-progress, curiosities explored, & things learned.
+a loose collection of thoughts-in-progress & curiosities explored.
 
-[say hi](https://www.linkedin.com/in/hieu6/)
+say [hi](mailto:hieu6n@gmail.com)
 
 ## interests
 
@@ -22,5 +22,5 @@ a loose collection of thoughts-in-progress, curiosities explored, & things learn
 - financial independence
 - mental health
 
-## disclaimer
+### disclaimer
 opinions expressed here are my own and not those of my employer or any past employer.
