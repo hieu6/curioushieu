@@ -24,6 +24,5 @@ say [hello](mailto:hieu6n@gmail.com)
 2. Vulnerability is a strength
 3. Nurture curiosity
 
-
----
-*disclaimer*: opinions expressed here are my own and not those of my employer or any past employer.
+## *disclaimer*
+opinions expressed here are my own and not those of my employer or any past employer.
