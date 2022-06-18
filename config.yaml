@@ -1,6 +1,6 @@
 baseurl: "https://curioushieu.com"
 languageCode: "en-us"
-title: "curious hieu"
+title: 
 paginate: 6
 
 # disqusShortname: https-hugo-tania-netlify-app
